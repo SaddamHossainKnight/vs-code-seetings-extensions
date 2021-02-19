@@ -1,6 +1,6 @@
 {
     // editor
-    "editor.fontSize": 20,
+    "editor.fontSize": 18,
     "editor.fontFamily": "Fira Code, Operator Mono",
     "editor.fontLigatures": true,
     "editor.wordWrap": "on",
@@ -38,31 +38,40 @@
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontWeight": "normal",
     "terminal.integrated.fontFamily": "Roboto, Operator Mono",
-    "workbench.colorTheme": "Community Material Theme Ocean",
     "workbench.iconTheme": "vscode-icons",
     // terminal customization
     "workbench.colorCustomizations": {
-      "terminal.background": "#1D2021",
-      "terminal.foreground": "#A89984",
+      "terminal.background": "#000000",
+      "terminal.foreground": "#dfdfdf",
       "terminalCursor.background": "#A89984",
       "terminalCursor.foreground": "#A89984",
-      "terminal.ansiBlack": "#1D2021",
+      "terminal.ansiBlack": "#646464",
       "terminal.ansiBlue": "#0D6678",
       "terminal.ansiBrightBlack": "#665C54",
       "terminal.ansiBrightBlue": "#0D6678",
       "terminal.ansiBrightCyan": "#8BA59B",
       "terminal.ansiBrightGreen": "#95C085",
-      "terminal.ansiBrightMagenta": "#8F4673",
+      "terminal.ansiBrightMagenta": "#cc218a",
       "terminal.ansiBrightRed": "#FB543F",
       "terminal.ansiBrightWhite": "#FDF4C1",
       "terminal.ansiBrightYellow": "#FAC03B",
       "terminal.ansiCyan": "#8BA59B",
-      "terminal.ansiGreen": "#95C085",
-      "terminal.ansiMagenta": "#8F4673",
+      "terminal.ansiGreen": "#44ff00ad",
+      "terminal.ansiMagenta": "#f00094",
       "terminal.ansiRed": "#FB543F",
       "terminal.ansiWhite": "#A89984",
-      "terminal.ansiYellow": "#FAC03B"
+      "terminal.ansiYellow": "#fce300a1"
     },
     "files.autoSave": "afterDelay",
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "update.mode": "start",
+    "extensions.autoCheckUpdates": false,
+    "settingsSync.ignoredSettings": [
+    
+    ],
+    "update.showReleaseNotes": false,
+    "gitlens.defaultTimeFormat": null,
+    "gitlens.defaultDateShortFormat": null,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
   }
