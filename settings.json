@@ -4,7 +4,7 @@
     "editor.fontFamily": "Fira Code, Operator Mono",
     "editor.fontLigatures": true,
     "editor.wordWrap": "on",
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "editor.tokenColorCustomizations": {
       "textMateRules": [
         {
