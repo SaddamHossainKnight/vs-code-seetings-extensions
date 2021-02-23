@@ -73,5 +73,14 @@
     "gitlens.defaultTimeFormat": null,
     "gitlens.defaultDateShortFormat": null,
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.startupEditor": "newUntitledFile",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "emmet.excludeLanguages": [
+
+      "markdown"
+    ],
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+   }
   }
